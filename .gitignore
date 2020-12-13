@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
+api_keys.py
 __pycache__/
+.ipynb_checkpoints
 *.py[cod]
 *$py.class
 
